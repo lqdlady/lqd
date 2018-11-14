@@ -1,0 +1,2 @@
+# lqd
+study
